@@ -2,3 +2,11 @@ h1.title {
     text-align: center;
     color: blue;
 }
+
+a {
+    color: blue;
+}
+
+a:hover {
+    color: green
+}
