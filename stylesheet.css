@@ -10,3 +10,7 @@ a {
 a:hover {
     color: green
 }
+
+a:visited{
+    color:lightblue
+}
